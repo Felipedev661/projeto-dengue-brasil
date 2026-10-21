@@ -65,3 +65,11 @@ Portanto, os resultados devem ser interpretados como exploratórios, e não como
 ## 10. Status
 
 Projeto em desenvolvimento — análise exploratória e documentação preliminar.
+
+## 11. Painel interativo
+
+O projeto inclui um painel desenvolvido no Looker Studio para explorar as contagens mensais de registros de dengue e suas classificações.
+
+**Acessar o painel:** https://datastudio.google.com/reporting/bef1930a-9922-4088-858a-9046b04f94c4
+
+**Nota metodológica:** os dados apresentados são exploratórios e podem conter sobreposição entre arquivos anuais. As contagens não representam necessariamente casos únicos.
