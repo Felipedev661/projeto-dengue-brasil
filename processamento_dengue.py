@@ -15,6 +15,11 @@ CLASSIFICACOES = ["10", "11", "12"]
 CRITERIOS = ["1", "2"]
 TAMANHO_BLOCO = 100_000
 
+# ATENÇÃO:
+# As contagens são exploratórias. Os arquivos anuais são somados
+# sem deduplicação entre bases. Portanto, os resultados representam
+# registros contabilizados, não necessariamente casos únicos.
+# A comparação entre anos exige validação adicional.
 
 def processar_arquivos():
     """Gera contagens mensais por ano de sintomas e classificação."""
