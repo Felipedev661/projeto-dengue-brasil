@@ -36,7 +36,7 @@ Fonte oficial: https://dadosabertos.saude.gov.br/dataset/arboviroses-dengue
 6. Exploração dos resultados e elaboração de visualizações.
 7. Documentação das limitações metodológicas.
 
-## ## 7. Estrutura do projeto
+## 7. Estrutura do projeto
 
 - `README.md`: apresentação geral, metodologia e instruções do projeto.
 - `problema_e_justificativa.md`: problema investigado, justificativa e objetivos.
