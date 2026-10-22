@@ -36,13 +36,15 @@ Fonte oficial: https://dadosabertos.saude.gov.br/dataset/arboviroses-dengue
 6. Exploração dos resultados e elaboração de visualizações.
 7. Documentação das limitações metodológicas.
 
-## 7. Estrutura do repositório
+## ## 7. Estrutura do projeto
 
+- `README.md`: apresentação geral, metodologia e instruções do projeto.
 - `problema_e_justificativa.md`: problema investigado, justificativa e objetivos.
 - `fontes_e_metodologia.md`: fontes de dados e procedimentos utilizados.
 - `processamento_dengue.py`: código de processamento dos dados.
+- `Projeto_Dengue_SINAN.ipynb`: notebook com etapas de exploração e processamento.
+- `dengue_resumo_mensal.csv`: tabela agregada para visualização no Looker Studio.
 - `resultados_e_limitações.md`: resultados preliminares e limitações identificadas.
-- `README.md`: apresentação geral do projeto.
 
 ## 8. Limitações importantes
 
